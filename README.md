@@ -1,5 +1,5 @@
 # fing-utils
-Archivos de utilidad para los estudiantes de ingeniería.
+Archivos de utilidad para los estudiantes de ingeniería.  
 Acceder a toda la información y archivos [desde la wiki](https://github.com/mp19uy/fing-utils/wiki)
 
 * Calendarios Lectivos y de Examenes y Parciales.
